@@ -12,8 +12,8 @@
 </ul>
 <p><strong>Api Key & Proxies</strong></p>
 <ul>
-<li>Api Key <a href="https://2captcha.com?from=14194275">Sign up and get your tokens</a></li>
-<li>Proxies <a href="https://www.webshare.io/?referral_code=yc4dulzwqy30">Sign up to get 10 premium proxies</a></li>
+<li>Api Key <a href="https://2captcha.com?from=14194275">Sign up and get your tokens</a> (put in config)</li>
+<li>Proxies <a href="https://www.webshare.io/?referral_code=yc4dulzwqy30">Sign up to get 10 premium proxies</a> (put in proxies.txt)</li>
 </ul>
 <br>
 <h2>Gen Features</h2>
