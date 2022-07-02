@@ -3,7 +3,7 @@
 <h2>Need support ?  --> <a href="https://discord.gg/RdVX95ysyA">Join my discord server</a></h2>
 <br>
 <h3>Requirements</h3>
-<p>Modules</p>
+<p><strong>Modules</strong></p>
 <ul>
 <li>requests</li>
 <li>random</li>
