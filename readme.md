@@ -2,7 +2,7 @@
 <br>
 <h2>Need support ?  --> <a href="https://discord.gg/RdVX95ysyA">Join my discord server</a></h2>
 <br>
-<h3>Requirements</h3>
+<h2>Requirements</h2>
 <p><strong>Modules</strong></p>
 <ul>
 <li>requests</li>
@@ -14,4 +14,11 @@
 <ul>
 <li>Api Key <a href="https://2captcha.com?from=14194275">Sign up and get your tokens</a></li>
 <li>Proxies <a href="https://www.webshare.io/?referral_code=yc4dulzwqy30">Sign up to get 10 premium proxies</a></li>
+</ul>
+<br>
+<h2>Gen Features</h2>
+<ul>
+<li>Custom Name</li>
+<li>Custom Password</li>
+<li>Custom Bio</li>
 </ul>
