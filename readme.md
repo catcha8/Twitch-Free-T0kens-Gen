@@ -1,6 +1,6 @@
 <h1><a href="https://github.com/catcha8">catcha FreeTwitchT0kenGen</a></h1>
 <br>
-<h2>Need support ?  --> <a href="https://discord.gg/RdVX95ysyA">Join my discord server</a></h2>
+<h2>Need support ?  --> <a href="https://discord.com/invite/hktVzrff54">Join my discord server</a></h2>
 <br>
 <h2>Requirements</h2>
 <p><strong>Modules</strong></p>
